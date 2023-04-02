@@ -16,7 +16,7 @@ module tb();
   end
   end
 endmodule
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+/*
 output:
 
 The value of a is = 14
@@ -29,3 +29,4 @@ The value of a is = 1
 The value of a is = 13
 The value of a is = 2
 The value of a is = 7
+*/
