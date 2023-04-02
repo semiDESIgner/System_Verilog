@@ -18,8 +18,8 @@ module tb();
   end
 endmodule
 
-/////////////////////////////////////////////////////////////////
-output:
+
+/*output:
 The value of a is = 9
 The value of a is = 11
 The value of a is = 10
@@ -30,3 +30,4 @@ The value of a is = 10
 The value of a is = 3
 The value of a is = 0
 The value of a is = 9
+*/
